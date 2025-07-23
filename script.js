@@ -1,6 +1,9 @@
-function toCase(text) {
-  // write your code here
-}
+// function toCase(text) {
+//   // write your code here
+   
+     console.log(text.toLowerCase()+'-'+text.toUpperCase());
+	
+// }
 
 // DO not change the code below
 
